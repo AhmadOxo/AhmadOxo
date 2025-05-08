@@ -14,7 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmad-aarabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad aarabi" height="30" width="40" /></a>
-[![Telegram](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg)](https://t.me/log0ut)
+<a href="https://t.me/log0ut">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
